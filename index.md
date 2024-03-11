@@ -1,6 +1,5 @@
 ![banner](https://niels-emmer.github.io/niels-emmer-banner.png "Niels Emmer - Banner pic")
 
-## Niels Emmer
 Father, Husband, IT Architect
 
 Creative, adaptive, engaged and committed to deliver. Driven by new knowledge and getting the best out of people and technology, I find happiness in building things that last.
