@@ -1,3 +1,5 @@
+![banner](https://niels-emmer.github.io/niels-emmer-banner.png "Niels Emmer - Banner pic")
+
 ## Niels Emmer
 Father, Husband, IT Architect
 
