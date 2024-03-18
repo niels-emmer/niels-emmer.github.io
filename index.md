@@ -9,6 +9,6 @@ Creative, adaptive, engaged and committed to deliver. Driven by new knowledge an
 A strong background in IT and exposure to a wide range of environments allows me to get the bigger picture. Experience from work in engineering, consulting and management rols allows me to build and execute.
 
 * linkedin [niels-emmer](https://www.linkedin.com/in/niels-emmer/)
-* github [niels-emmer](https://github.com/niels-emmer)
-* office [digilyfe.nl](https://digilyfe.nl/)
-* matrix [@40two:matrix.org](https://matrix.to/#/@40two:matrix.org)
+* github__ [niels-emmer](https://github.com/niels-emmer)
+* office__ [digilyfe.nl](https://digilyfe.nl/)
+* matrix__ [@40two:matrix.org](https://matrix.to/#/@40two:matrix.org)
