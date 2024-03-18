@@ -1,4 +1,4 @@
-![banner](https://niels-emmer.github.io/niels-emmer-banner.png "Niels Emmer - Banner pic")
+![banner](https://niels-emmer.github.io/assets/images/niels-emmer-banner.png "Niels Emmer - Banner pic")
 
 ## Niels Emmer
 
