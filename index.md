@@ -9,8 +9,8 @@ Creative, adaptive, engaged and committed. Driven by new knowledge and getting t
 A strong background in IT and exposure to a wide range of environments allows me to get the bigger picture. Experience in engineering, consulting and management allows me to build and execute.
 
 * linkedin: [niels-emmer](https://www.linkedin.com/in/niels-emmer/)
-* github__: [niels-emmer](https://github.com/niels-emmer)
-* work_me_: [digilyfe.nl](https://digilyfe.nl/en/)
-* matrix__: [@niels-emmer:matrix.org](https://matrix.to/#/@niels-emmer:matrix.org)
-* pub_key_: [D827 ... 6A06](https://keys.openpgp.org/vks/v1/by-fingerprint/D82747CADC711EE647A98174B896B533FF666A06)
-* playgrnd: [macjuu.com](https://macjuu.com)
+* github: [niels-emmer](https://github.com/niels-emmer)
+* work: [digilyfe.nl](https://digilyfe.nl/en/)
+* matrix: [@niels-emmer:matrix.org](https://matrix.to/#/@niels-emmer:matrix.org)
+* public key: [D827 ... 6A06](https://keys.openpgp.org/vks/v1/by-fingerprint/D82747CADC711EE647A98174B896B533FF666A06)
+* playground: [macjuu.com](https://macjuu.com)
