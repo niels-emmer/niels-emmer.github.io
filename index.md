@@ -11,6 +11,6 @@ A strong background in IT and exposure to a wide range of environments allows me
 * linkedin: [niels-emmer](https://www.linkedin.com/in/niels-emmer/)
 * github: [niels-emmer](https://github.com/niels-emmer)
 * work: [digilyfe.nl](https://digilyfe.nl)
+* signal: @emmer.42
 * matrix: [@niels-emmer:matrix.org](https://matrix.to/#/@niels-emmer:matrix.org)
-* public key: [D827 ... 6A06](https://keys.openpgp.org/vks/v1/by-fingerprint/D82747CADC711EE647A98174B896B533FF666A06)
 * playground: [macjuu.com](https://macjuu.com)
